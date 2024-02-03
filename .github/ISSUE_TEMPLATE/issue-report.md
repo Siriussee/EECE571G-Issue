@@ -12,7 +12,7 @@ assignees: ''
 **Describe the issue**
 A clear and concise description of what the bug is.
 
-**Which part of the tutorial  **
+**Which part of the tutorial**
 E.g.:  Tutorial of week 2
 
 **To Reproduce**
